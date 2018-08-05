@@ -29,6 +29,7 @@ Description of the **features we have planned to offer later**
 
 * [ ] You must connect to the internet
 * [ ] You must create an account to add/upload musics
+* [ ] Allow RetroMizik to access media and files on your device
 
 
 ## License
