@@ -15,8 +15,7 @@
 * [ ] User can stream music by clicking on the music appearing in the screen
 * [ ] User can filter Search by Artist, album or by year
 * [ ] User can see the detail of the playing music on another screen 
-* [ ] User can listen to a music
-* [ ] User can download a music
+* [ ] User can listen to a musi
 
 Description of the **features we have planned to offer later**
 
@@ -24,6 +23,7 @@ Description of the **features we have planned to offer later**
 * [ ] User can like a music
 * [ ] User can automatically create a playlist with liked music
 * [ ] User can create a custom playlist 
+* [ ] User can download a music
 
 **Requirements** to be able to use the application
 
